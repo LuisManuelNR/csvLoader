@@ -1,0 +1,24 @@
+{
+  "name": "@chazy/csvloader",
+  "version": "1.0.0",
+  "description": "load csv files in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisManuelNR/csvLoader.git"
+  },
+  "keywords": [
+    "csv",
+    "load",
+    "file"
+  ],
+  "author": "Luis Manuel Noguerol Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisManuelNR/csvLoader/issues"
+  },
+  "homepage": "https://github.com/LuisManuelNR/csvLoader#readme"
+}
