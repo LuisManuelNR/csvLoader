@@ -1,6 +1,6 @@
 {
   "name": "@chazy/csvloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "load csv files in the browser",
   "main": "index.js",
   "scripts": {
