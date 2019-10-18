@@ -9,7 +9,7 @@ const loadCsv = (e) => {
       for (let h = 0; h < headers.length; h++) {
         result[headers[h]] = []
       }
-      for (let v = 1; v < rows.length - 1; v++) {
+      for (let v = 1; v < rows.length; v++) {
         const values = rows[v].split(',')
         for (let i = 0; i < values.length; i++) {
           const val = +values[i]
